@@ -1,0 +1,343 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/atv-logo.png" group-title="Perú",ATV HD
+http://181.189.244.252:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Fillka Tv" tvg-logo="https://i.imgur.com/fillka-logo.png" group-title="Perú",Fillka Tv
+https://media2.streambrothers.com:19360/8028/8028.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Latina" tvg-logo="https://i.imgur.com/latina-logo.png" group-title="Perú",Latina
+http://179.51.136.19:8000/play/a1as/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="America" tvg-logo="https://i.imgur.com/america-logo.png" group-title="Perú",America
+http://200.60.124.19:29000/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/panamericana-logo.png" group-title="Perú",Panamericana
+http://200.60.124.19:29000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/willax-logo.png" group-title="Perú",Willax TV
+http://200.60.124.19:29000/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="RPP" tvg-logo="https://i.imgur.com/rpp-logo.png" group-title="Perú",RPP
+http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/12893
+
+#EXTINF:-1 tvg-id="8" tvg-name="Caracol HD" tvg-logo="https://i.imgur.com/caracol-logo.png" group-title="Colombia",Caracol HD
+http://181.78.14.26:8000/play/a00d
+
+#EXTINF:-1 tvg-id="9" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/telepacifico-logo.png" group-title="Colombia",Telepacifico
+http://fortv.cc:8080/90820916/64752029/78729
+
+#EXTINF:-1 tvg-id="10" tvg-name="WinSports" tvg-logo="https://i.imgur.com/winsports-logo.png" group-title="Colombia",WinSports
+http://fortv.cc:8080/90820916/64752029/78717
+
+#EXTINF:-1 tvg-id="11" tvg-name="Win Sport +" tvg-logo="https://i.imgur.com/winsport-plus-logo.png" group-title="Colombia",Win Sport +
+http://179.51.136.19:8000/play/a1bp/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="Ciudad Magazin" tvg-logo="https://i.imgur.com/ciudad-magazin-logo.png" group-title="Colombia",Ciudad Magazin
+https://is.gd/fIKFdB
+
+#EXTINF:-1 tvg-id="13" tvg-name="TVE" tvg-logo="https://i.imgur.com/tve-logo.png" group-title="España",TVE
+https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/SHO_L-APRO/mp4/7/2/1729270243327.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294073
+
+#EXTINF:-1 tvg-id="14" tvg-name="LA 2" tvg-logo="https://i.imgur.com/la2-logo.png" group-title="España",LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="15" tvg-name="TELEMUNDO" tvg-logo="https://i.imgur.com/telemundo-logo.png" group-title="Internacional",TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="TELEMUNDO SD" tvg-logo="https://i.imgur.com/telemundo-logo.png" group-title="Internacional",TELEMUNDO SD
+http://200.60.124.19:29000/play/a01g
+
+#EXTINF:-1 tvg-id="17" tvg-name="Telemundo Latino" tvg-logo="https://i.imgur.com/telemundo-latino-logo.png" group-title="Internacional",Telemundo Latino
+http://181.119.86.68:8000/play/b023/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/cnn-esp-logo.png" group-title="Noticias",CNN ESPAÑOL
+http://45.176.193.222:2405/play/a019
+
+#EXTINF:-1 tvg-id="19" tvg-name="RT NOTICIAS" tvg-logo="https://i.imgur.com/rt-logo.png" group-title="Noticias",RT NOTICIAS
+https://rt-esp.servicecdn.ru/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="DW" tvg-logo="https://i.imgur.com/dw-logo.png" group-title="Noticias",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-name="AMX NOTICIAS" tvg-logo="https://i.imgur.com/amx-logo.png" group-title="Noticias",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-name="CTGN" tvg-logo="https://i.imgur.com/cgtn-logo.png" group-title="Noticias",CTGN
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5546&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=85d4d485-e2b6-46a6-b499-c9e9086710e3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="23" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/discovery-logo.png" group-title="Documentales",Discovery HD
+http://181.119.86.68:8000/play/c012/index.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-name="Discovery HYH" tvg-logo="https://i.imgur.com/discovery-hyh-logo.png" group-title="Documentales",Discovery HYH
+http://181.119.86.68:8000/play/c001/index.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-name="Discovery ID" tvg-logo="https://i.imgur.com/discovery-id-logo.png" group-title="Documentales",Discovery ID
+http://181.119.86.68:8000/play/c001/index.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/discovery-kids-logo.png" group-title="Infantil",Discovery Kids
+http://181.119.85.222:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/discovery-science-logo.png" group-title="Documentales",Discovery Science
+http://181.119.85.222:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/discovery-turbo-logo.png" group-title="Documentales",Discovery Turbo
+http://181.119.85.222:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/animal-planet-logo.png" group-title="Documentales",Animal Planet
+http://181.119.85.222:8000/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/natgeo-logo.png" group-title="Documentales",National Geographic
+http://179.51.136.19:8000/play/a1bd/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="History" tvg-logo="https://i.imgur.com/history-logo.png" group-title="Documentales",History
+http://181.119.86.68:8000/play/c020/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="History 2" tvg-logo="https://i.imgur.com/history2-logo.png" group-title="Documentales",History 2
+http://181.119.85.222:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="AE" tvg-logo="https://i.imgur.com/ae-logo.png" group-title="Documentales",AE
+http://181.119.86.68:8000/play/c013/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="DHE" tvg-logo="https://i.imgur.com/dhe-logo.png" group-title="Documentales",DHE
+http://181.119.86.68:8000/play/b006/index.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-name="Golden" tvg-logo="https://i.imgur.com/golden-logo.png" group-title="Películas",Golden
+http://181.119.85.222:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="Golden Premiere" tvg-logo="https://i.imgur.com/golden-premiere-logo.png" group-title="Películas",Golden Premiere
+http://200.125.170.122:8000/play/a00l
+
+#EXTINF:-1 tvg-id="37" tvg-name="Cine Canal" tvg-logo="https://i.imgur.com/cinecanal-logo.png" group-title="Películas",Cine Canal
+http://181.119.86.68:8000/play/b036/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Cine Max" tvg-logo="https://i.imgur.com/cinemax-logo.png" group-title="Películas",Cine Max
+http://181.78.201.70:8000/play/a0hi/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="FX" tvg-logo="https://i.imgur.com/fx-logo.png" group-title="Películas",FX
+http://181.119.85.222:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-name="De Pelicula" tvg-logo="https://i.imgur.com/depelicula-logo.png" group-title="Películas",De Pelicula
+http://181.119.85.222:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="SONY MOVIES HD" tvg-logo="https://i.imgur.com/sony-movies-logo.png" group-title="Películas",SONY MOVIES HD
+http://179.51.136.19:8000/play/a1aa/index.m3u8
+
+#EXTINF:-1 tvg-id="42" tvg-name="SPACE" tvg-logo="https://i.imgur.com/space-logo.png" group-title="Películas",SPACE
+http://181.78.106.127:9000/play/ca072/index.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="STAR" tvg-logo="https://i.imgur.com/star-logo.png" group-title="Películas",STAR
+http://181.119.86.68:8000/play/b014/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="STAR CHANNEL SD" tvg-logo="https://i.imgur.com/star-logo.png" group-title="Películas",STAR CHANNEL SD
+http://200.60.124.19:29000/play/a01r
+
+#EXTINF:-1 tvg-id="45" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/studio-universal-logo.png" group-title="Películas",STUDIO UNIVERSAL
+http://181.119.86.68:8000/play/c024/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="TCM" tvg-logo="https://i.imgur.com/tcm-logo.png" group-title="Películas",TCM
+http://200.60.124.19:29000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="TNT" tvg-logo="https://i.imgur.com/tnt-logo.png" group-title="Películas",TNT
+http://179.51.136.19:8000/play/a1af/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="TNT SERIES" tvg-logo="https://i.imgur.com/tnt-series-logo.png" group-title="Series",TNT SERIES
+http://179.51.136.19:8000/play/a1al/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="Universal TV" tvg-logo="https://i.imgur.com/universal-tv-logo.png" group-title="Series",Universal TV
+http://181.119.85.222:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="Warner HD" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="Películas",Warner HD
+http://179.51.136.19:8000/play/a0wx/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="WARNER SD" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="Películas",WARNER SD
+http://200.60.124.19:29000/play/a013
+
+#EXTINF:-1 tvg-id="52" tvg-name="SONY HD" tvg-logo="https://i.imgur.com/sony-logo.png" group-title="Películas",SONY HD
+http://181.119.86.68:8000/play/c023/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="AMC" tvg-logo="https://i.imgur.com/amc-logo.png" group-title="Películas",AMC
+http://181.78.106.127:9000/play/ca080/index.m3u8
+
+#EXTINF:-1 tvg-id="54" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/axn-logo.png" group-title="Películas",AXN HD
+http://181.119.85.222:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="PARAMOUNT" tvg-logo="https://i.imgur.com/paramount-logo.png" group-title="Películas",PARAMOUNT
+http://179.51.136.19:8000/play/a1am/index.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/hbo-logo.png" group-title="Premium",HBO HD
+http://181.189.244.253:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/hbo2-logo.png" group-title="Premium",HBO2 HD
+http://181.189.244.253:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="58" tvg-name="HBO Plus HD" tvg-logo="https://i.imgur.com/hbo-plus-logo.png" group-title="Premium",HBO Plus HD
+http://181.189.244.253:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/hbo-family-logo.png" group-title="Premium",HBO Family HD
+http://181.189.244.253:8000/play/a01b/index.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/hbo-xtreme-logo.png" group-title="Premium",HBO XTREME
+http://181.189.244.253:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/cartoon-network-logo.png" group-title="Infantil",Cartoon Network
+http://181.78.201.70:8000/play/a0h0/index.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/disney-channel-logo.png" group-title="Infantil",Disney Channel
+http://181.119.86.68:8000/play/c003/index.m3u8
+
+#EXTINF:-1 tvg-id="63" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/disney-junior-logo.png" group-title="Infantil",Disney Junior
+http://179.51.136.19:8000/play/a1g3/index.m3u8
+
+#EXTINF:-1 tvg-id="64" tvg-name="NICK" tvg-logo="https://i.imgur.com/nick-logo.png" group-title="Infantil",NICK
+http://179.51.136.19:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-id="65" tvg-name="TOONCAST" tvg-logo="https://i.imgur.com/tooncast-logo.png" group-title="Infantil",TOONCAST
+http://179.51.136.19:8000/play/a0wh/index.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="ESPN" tvg-logo="https://i.imgur.com/espn-logo.png" group-title="Deportes",ESPN
+http://fortv.cc:8080/90820916/64752029/86765
+
+#EXTINF:-1 tvg-id="67" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/espn2-logo.png" group-title="Deportes",ESPN 2
+http://181.119.86.68:8000/play/b032/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/espn3-logo.png" group-title="Deportes",ESPN 3
+http://181.119.86.68:8000/play/b033/index.m3u8
+
+#EXTINF:-1 tvg-id="69" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/espn4-logo.png" group-title="Deportes",ESPN 4
+http://181.119.85.222:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/espn5-logo.png" group-title="Deportes",ESPN 5
+http://181.119.86.68:8000/play/b028/index.m3u8
+
+#EXTINF:-1 tvg-id="71" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/espn6-logo.png" group-title="Deportes",ESPN 6
+http://181.119.85.222:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="72" tvg-name="Fox Sports" tvg-logo="https://i.imgur.com/fox-sports-logo.png" group-title="Deportes",Fox Sports
+http://181.78.106.127:9000/play/ca032/index.m3u8
+
+#EXTINF:-1 tvg-id="73" tvg-name="DirectTV Sports" tvg-logo="https://i.imgur.com/directv-sports-logo.png" group-title="Deportes",DirectTV Sports
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="DirectTV Sports 2" tvg-logo="https://i.imgur.com/directv-sports2-logo.png" group-title="Deportes",DirectTV Sports 2
+http://179.51.136.19:8000/play/a112/index.m3u8
+
+#EXTINF:-1 tvg-id="75" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS
+http://179.51.136.19:8000/play/a0px/index.m3u8
+
+#EXTINF:-1 tvg-id="76" tvg-name="TYC SPORTS" tvg-logo="https://i.imgur.com/tyc-sports-logo.png" group-title="Deportes",TYC SPORTS
+http://179.51.136.19:8000/play/a1h0/index.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="LIGA 1 MAX" tvg-logo="https://i.imgur.com/liga1max-logo.png" group-title="Deportes",LIGA 1 MAX
+http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/478009
+
+#EXTINF:-1 tvg-id="78" tvg-name="LIGA 1 MAX 2" tvg-logo="https://i.imgur.com/liga1max2-logo.png" group-title="Deportes",LIGA 1 MAX 2
+http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/469158
+
+#EXTINF:-1 tvg-id="79" tvg-name="MOVISTAR DEPORTE" tvg-logo="https://i.imgur.com/movistar-deporte-logo.png" group-title="Deportes",MOVISTAR DEPORTE
+http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203769
+
+#EXTINF:-1 tvg-id="80" tvg-name="LIGA DE CAMPEONES" tvg-logo="https://i.imgur.com/champions-league-logo.png" group-title="Deportes",LIGA DE CAMPEONES
+http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203795
+
+#EXTINF:-1 tvg-id="81" tvg-name="EUROSPORT HD" tvg-logo="https://i.imgur.com/eurosport-logo.png" group-title="Deportes",EUROSPORT HD
+http://87.120.179.187:8000/play/a02c
+
+#EXTINF:-1 tvg-id="82" tvg-name="Max Sport 1 HD" tvg-logo="https://i.imgur.com/max-sport-logo.png" group-title="Deportes",Max Sport 1 HD
+http://87.120.179.187:8000/play/a00k
+
+#EXTINF:-1 tvg-id="83" tvg-name="Redbull TV" tvg-logo="https://i.imgur.com/redbull-logo.png" group-title="Deportes",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="Racer" tvg-logo="https://i.imgur.com/racer-logo.png" group-title="Deportes",Racer
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="85" tvg-name="MTV" tvg-logo="https://i.imgur.com/mtv-logo.png" group-title="Música",MTV
+http://179.51.136.19:8000/play/a0um/index.m3u8
+
+#EXTINF:-1 tvg-id="86" tvg-name="HTV" tvg-logo="https://i.imgur.com/htv-logo.png" group-title="Música",HTV
+http://179.51.136.19:8000/play/a14l/index.m3u8
+
+#EXTINF:-1 tvg-id="87" tvg-name="1 Mus" tvg-logo="https://i.imgur.com/1mus-logo.png" group-title="Música",1 Mus
+http://rtmp.one.by:2300/
+
+#EXTINF:-1 tvg-id="88" tvg-name="Garage TV" tvg-logo="https://i.imgur.com/garage-tv-logo.png" group-title="Música",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="89" tvg-name="Los Heat TV" tvg-logo="https://i.imgur.com/los-heat-logo.png" group-title="Música",Los Heat TV
+https://mdstrm.com/video/631f6f0fe4eba7082bc551ad.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="90" tvg-name="NOW ROCK" tvg-logo="https://i.imgur.com/now-rock-logo.png" group-title="Música",NOW ROCK
+https://bit.ly/3B1M54o?/playlist.m3u8
+
+#EXTINF:-1 tvg-id="91" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/trace-urban-logo.png" group-title="Música",TRACE URBAN
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="92" tvg-name="Страна FM" tvg-logo="https://i.imgur.com/strana-fm-logo.png" group-title="Música",Страна FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="93" tvg-name="PASIONES" tvg-logo="https://i.imgur.com/pasiones-logo.png" group-title="Novelas",PASIONES
+http://179.51.136.19:8000/play/a1bv/index.m3u8
+
+#EXTINF:-1 tvg-id="94" tvg-name="Pasiones HD" tvg-logo="https://i.imgur.com/pasiones-hd-logo.png" group-title="Novelas",Pasiones HD
+http://45.176.71.20:1689/play/a0nt
+
+#EXTINF:-1 tvg-id="95" tvg-name="Tlnovelas" tvg-logo="https://i.imgur.com/tlnovelas-logo.png" group-title="Novelas",Tlnovelas
+http://181.119.85.222:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="96" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/tnt-novelas-logo.png" group-title="Novelas",TNT Novelas
+http://200.60.124.19:29000/play/a06r
+
+#EXTINF:-1 tvg-id="97" tvg-name="KANAL D DRAMA" tvg-logo="https://i.imgur.com/kanal-d-logo.png" group-title="Novelas",KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="98" tvg-name="MyTime" tvg-logo="https://i.imgur.com/mytime-logo.png" group-title="Novelas",MyTime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="Distrito Comedia" tvg-logo="https://i.imgur.com/distrito-comedia-logo.png" group-title="Entretenimiento",Distrito Comedia
+http://181.119.85.222:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-name="FARRA PLAY" tvg-logo="https://i.imgur.com/farra-play-logo.png" group-title="Entretenimiento",FARRA PLAY
+http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="101" tvg-name="MOVISTAR TV" tvg-logo="https://i.imgur.com/movistar-tv-logo.png" group-title="Entretenimiento",MOVISTAR TV
+http://179.51.136.19:8000/play/a1hu/index.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="13 MAX" tvg-logo="https://i.imgur.com/13max-logo.png" group-title="Entretenimiento",13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="ABC" tvg-logo="https://i.imgur.com/abc-logo.png" group-title="Internacional",ABC
+http://fortv.cc:8080/90820916/64752029/120855
+
+#EXTINF:-1 tvg-id="104" tvg-name="CANAL RUSO" tvg-logo="https://i.imgur.com/canal-ruso-logo.png" group-title="Internacional",CANAL RUSO
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="NTV RUSO" tvg-logo="https://i.imgur.com/ntv-logo.png" group-title="Internacional",NTV RUSO
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="NTV HIT RUSO" tvg-logo="https://i.imgur.com/ntv-hit-logo.png" group-title="Internacional",NTV HIT RUSO
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="NTV-Pravo RUSO" tvg-logo="https://i.imgur.com/ntv-pravo-logo.png" group-title="Internacional",NTV-Pravo RUSO
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="NTV-Serial-HD" tvg-logo="https://i.imgur.com/ntv-serial-logo.png" group-title="Internacional",NTV-Serial-HD
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="NTV-Style-HD" tvg-logo="https://i.imgur.com/ntv-style-logo.png" group-title="Internacional",NTV-Style-HD
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="BigAsia HD" tvg-logo="https://i.imgur.com/bigasia-logo.png" group-title="Internacional",BigAsia HD
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Sochi Live HD" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="ACTION HD RUSO" tvg-logo="https://i.imgur.com/action-ruso-logo.png" group-title="Internacional",ACTION HD RUSO
+http://87.120.179.187:8000/play/a00v
+
+#EXTINF:-1 tvg-id="113" tvg-name="RINGHD" tvg-logo="https://i.imgur.com/ringhd-logo.png" group-title="Internacional",RINGHD
+http://87.120.179.187:8000/play/a00w
+
+#EXTINF:-1 tvg-id="114" tvg-name="CITYRADIO" tvg-logo="https://i.imgur.com/cityradio-logo.png" group-title="Internacional",CITYRADIO
+http://87.120.179.187:8000/play/a001 
